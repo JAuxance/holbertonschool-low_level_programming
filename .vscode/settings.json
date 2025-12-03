@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "function_pointers.h": "c"
+        "function_pointers.h": "c",
+        "stdlib.h": "c"
     }
 }
